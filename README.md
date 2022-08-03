@@ -9,9 +9,21 @@ The livestream is <b>HEVC/H.265</b> encoded, has a resolution of <b>1440x720 pix
 ## Tested cameras
 <table>
 <tr>
-    <th>Model</th>
+    <th>Name</th>
+   <th>Model</th>
     <th>Status</th>
+    <th>Firmware</th>
 </tr>
-<tr><td>BetaFPV SMO 360</td><td>✓</td></tr>
-<tr><td>Insta 360 One R</td><td>✓</td></tr>
+<tr>
+ <td>BetaFPV SMO 360</td>
+ <td>Insta360 OneR</td>
+ <td>✓</td>
+  <td>v10.1.25</td>
+</tr>
+<tr>
+ <td>Insta 360 One R</td>
+ <td>-</td>
+ <td>✓</td>
+ <td>-</td>
+ </tr>
 </table>

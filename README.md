@@ -11,21 +11,30 @@ The livestream is <b>HEVC/H.265</b> encoded, has a resolution of <b>1440x720 pix
 ## Tested cameras
 <table>
 <tr>
-    <th>Name</th>
+    <th>Model</th>
    <th>Model</th>
     <th>Status</th>
     <th>Firmware</th>
 </tr>
 <tr>
  <td>BetaFPV SMO 360</td>
- <td>Insta360 OneR</td>
  <td>✓</td>
   <td>v10.1.25</td>
 </tr>
 <tr>
  <td>Insta 360 One R</td>
- <td>-</td>
- <td>✓</td>
+ <td>✓ but lost some frames</td>
  <td>-</td>
  </tr>
 </table>
+
+```
+#start script:
+$ python3 insta360hevc.py
+
+#play written data:
+$ ffplay data.bin
+
+#or convert to mp4
+$ ffmpeg -i data.bin data.mp4
+```

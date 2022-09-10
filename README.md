@@ -12,7 +12,6 @@ The livestream is <b>HEVC/H.265</b> encoded, has a resolution of <b>1440x720 pix
 <table>
 <tr>
     <th>Model</th>
-   <th>Model</th>
     <th>Status</th>
     <th>Firmware</th>
 </tr>

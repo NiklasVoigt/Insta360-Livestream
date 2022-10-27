@@ -26,6 +26,11 @@ The livestream is <b>HEVC/H.265</b> encoded, has a resolution of <b>1440x720 pix
  <td>✓ but lost some frames</td>
  <td>-</td>
  </tr>
+ <tr>
+ <td>Insta360 X3</td>
+ <td>✖ camera display flickers, rx no usable video data</td>
+ <td>v1.0.04</td>
+ </tr>
 </table>
 
 

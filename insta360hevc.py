@@ -24,7 +24,7 @@ def instaBuff():
     instaTx('2e0000000400000900021b00008000000a0607271215181f1212aa010c10900319111111111111a13ff8010a1807150000000400000800021c00008000000a0342465d')
     instaTx('130000000400000800021d00008000000a010b')
 
-def instaInit(callback):
+def instaInit():
     with open("data.bin", "wb") as file:
         data = sock.recv(999999) # clear input buffer
         # handshake start

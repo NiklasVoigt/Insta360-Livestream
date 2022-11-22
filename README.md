@@ -46,3 +46,9 @@ $ ffplay data.bin
 #or convert to mp4
 $ ffmpeg -i data.bin data.mp4
 ```
+
+
+## Execute commands from hardware serial
+```
+t ipc rpc clnt exec2 'iwlist wlan0 scan'
+```

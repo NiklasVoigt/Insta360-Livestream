@@ -26,7 +26,7 @@ The livestream is <b>HEVC/H.265</b> encoded, has a resolution of <b>1440x720 pix
 <tr>
  <td>Insta 360 One R</td>
  <td>✓ but lost some frames</td>
- <td>-</td>
+ <td>v1.3.8</td>
  <td></td>
  </tr>
  <tr>

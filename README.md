@@ -15,21 +15,25 @@ The livestream is <b>HEVC/H.265</b> encoded, has a resolution of <b>1440x720 pix
     <th>Model</th>
     <th>Status</th>
     <th>Firmware</th>
+    <th>Sensor</th>
 </tr>
 <tr>
  <td>BetaFPV SMO 360</td>
  <td>✓</td>
-  <td>v10.1.25, <a href="Insta360OneRFW.bin">v10.1.26</a></td>
+ <td>v10.1.25, <a href="Insta360OneRFW.bin">v10.1.26</a></td>
+ <td>IMX577 1/2.3"</td>
 </tr>
 <tr>
  <td>Insta 360 One R</td>
  <td>✓ but lost some frames</td>
  <td>-</td>
+ <td></td>
  </tr>
  <tr>
  <td>Insta360 X3</td>
  <td>✘ camera display flickers, rx no usable video data</td>
  <td>v1.0.04</td>
+ <td></td>
  </tr>
 </table>
 

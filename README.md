@@ -52,7 +52,7 @@ $ ffmpeg -i data.bin data.mp4
 ```
 
 
-## Execute commands from hardware serial
+## Execute commands from hardware serial (BetaFPV SMO 360)
 ```
 t ipc rpc clnt exec2 'iwlist wlan0 scan'
 ```
